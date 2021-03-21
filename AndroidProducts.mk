@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_cereus.mk
+    $(LOCAL_DIR)/lineage_cereus.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_cereus-user \
-    nad_cereus-userdebug \
-    nad_cereus-eng
+    lineage_cereus-user \
+    lineage_cereus-userdebug \
+    lineage_cereus-eng
