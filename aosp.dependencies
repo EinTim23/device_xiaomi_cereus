@@ -1,0 +1,20 @@
+[
+  {
+  	"remote": "github",
+  	"repository": "wulan17/android_device_xiaomi_mt6765-common",
+  	"target_path": "device/xiaomi/mt6765-common",
+  	"branch": "11"
+  },
+  {
+  	"remote": "github",
+  	"repository": "wulan17/android_kernel_xiaomi_mt6765",
+  	"target_path": "kernel/xiaomi/mt6765",
+  	"branch": "11-nad"
+  },
+  {
+  	"remote": "github",
+  	"repository": "wulan17/proprietary_vendor_xiaomi",
+  	"target_path": "vendor/xiaomi",
+  	"branch": "11"
+  }
+]
