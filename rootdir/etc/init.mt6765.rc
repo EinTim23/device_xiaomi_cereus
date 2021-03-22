@@ -1,0 +1,13 @@
+on init
+   mkdir /data/misc/logd 0700 logd log
+   service logcatd /system/bin/logcat -b all -f /data/misc/logd/logcat -r 256
+   class main
+   user root
+   group root
+
+
+
+
+
+
+
