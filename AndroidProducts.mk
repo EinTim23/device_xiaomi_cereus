@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_cereus.mk
+    $(LOCAL_DIR)/evolution_cereus.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_cereus-user \
-    aosp_cereus-userdebug \
-    aosp_cereus-eng
+    evolution_cereus-user \
+    evolution_cereus-userdebug \
+    evolution_cereus-eng
