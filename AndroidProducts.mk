@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_cereus.mk
+    $(LOCAL_DIR)/arrow_cereus.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_cereus-user \
-    evolution_cereus-userdebug \
-    evolution_cereus-eng
+    arrow_cereus-user \
+    arrow_cereus-userdebug \
+    arrow_cereus-eng
