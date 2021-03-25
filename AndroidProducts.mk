@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 The LineageOS Project
+# Copyright (C) 2019 The pixysOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cereus.mk
+    $(LOCAL_DIR)/pixys_cereus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_cereus-user \
-    lineage_cereus-userdebug \
-    lineage_cereus-eng
+    pixys_cereus-user \
+    pixys_cereus-userdebug \
+    pixys_cereus-eng
