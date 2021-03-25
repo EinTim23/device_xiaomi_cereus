@@ -18,7 +18,7 @@
 $(call inherit-product, device/xiaomi/cereus/device.mk)
 
 # Inherit some common Lineage stuff.
-#$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 
 # Boot animaton
